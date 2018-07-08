@@ -78,10 +78,4 @@ public class Bricks : MonoBehaviour
             Debug.LogWarning ("Brick damage sprite missing!");
         }
     }
-
-    // TODO Remove this method once we can actually win
-    void SimulateWin()
-    {
-        sceneLoader.LoadNextScene();
-    }
 }
