@@ -1,0 +1,20 @@
+#Ignore everything but the scripts
+
+Assets/_Scenes
+Assets/Fonts
+Assets/Physics Materials
+Assets/Prefabs
+Assets/Sounds
+Assets/Sprites
+Assets/TextMesh Pro
+/Library
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/.vs
+
+*.meta
+*.DS_Store
+*.sln
+*.csproj
